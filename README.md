@@ -1,4 +1,4 @@
-# hugo Resume
+# Python Training for JAVA Developer  Resume
 [![CircleCI](https://circleci.com/gh/eddiewebb/hugo-resume/tree/master.svg?style=svg)](https://circleci.com/gh/eddiewebb/hugo-resume/tree/master)
 
 Created from [Start Bootstrap - Resume](https://startbootstrap.com/template-overviews/resume/).
